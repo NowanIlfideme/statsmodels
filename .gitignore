@@ -42,6 +42,7 @@ marks.bzr
 *.org
 .project
 *.diff
+.vscode
 .settings/
 *.svn/
 *.log.py
